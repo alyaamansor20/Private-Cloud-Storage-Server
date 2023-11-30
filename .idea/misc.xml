@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/totat/Desktop/Private-Cloud-Storage-Server-main/app/src/main/res/layout/activity_main.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/totat/Desktop/Private-Cloud-Storage-Server-main/app/src/main/res/layout/activity_qrcode_scanner.xml" value="0.21302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
